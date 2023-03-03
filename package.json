@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kruczyna/Cypress-Guide#readme",
   "devDependencies": {
-    "cypress": "^3.8.2"
+    "cypress": "^12.7.0"
   }
 }
